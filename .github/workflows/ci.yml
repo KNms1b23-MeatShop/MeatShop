@@ -1,19 +1,4 @@
 name: CI Code Check
 
 on:
-  push:
-    branches: ["main", "develop"]
-  pull_request:
-    branches: ["main", "develop"]
-
-jobs:
-  build-and-test:
-    runs-on: ubuntu-latest
-    steps:
-      
-name: Checkout code
-      u
-
-      
-name: Simulate tests
-      run: echo "Simulating tests... OK!"
+  
