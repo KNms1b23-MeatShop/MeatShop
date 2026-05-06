@@ -1,19 +1,21 @@
-name: CI Code Check
+# name: CI Code Check
 
-on:
-  push:
-    branches: ["main", "develop"]
-  pull_request:
-    branches: ["main", "develop"]
+# on:
+#  push:
+#    branches: ["main", "develop"]
+#  pull_request:
+#    branches: ["main", "develop"]
 
-jobs:
-  build-and-test:
-    runs-on: ubuntu-latest
-    steps:
+# jobs:
+#  build-and-test:
+#    runs-on: ubuntu-latest
+#    steps:
       
-name: Checkout code
-      us actions/checkout@v4
+# name: Checkout code
+#      us actions/checkout@v4
 
       
-name: Simulate tests
-      run: exit 1
+# name: Simulate tests
+#      run: exit 1
+
+кцйкеукуген
